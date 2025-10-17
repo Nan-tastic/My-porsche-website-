@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css"/>
+     </head>
+    <body>
+        <h1>Welcome to my porsche website</h1>
+        <img
+        src="https://di-uploads-pod15.dealerinspire.com/bluegrassmotorsport/uploads/2025/01/Porsche-911-model.webp"
+        />
+        <h3>Facts about porsche cars and Ferdinand Porsche:</h3>
+        <P>*First hybrid:Ferdinand Porsche created the world's first hybrid electric car in 1899. </P>
+        <P>*901 to 911:The iconic 911 was originally named the 901 but had to be renamed due to a trademark conflict with Peugeot. </P>
+        <P>*"Secretary cars": The first 25 of the 917 race cars earned the nickname "secretary cars" because they were built by a team of secretaries. </P>
+        <p>*Rear-engine design: The lack of a traditional front grille on many models is due to the historical rear-engine design that makes a front grille unnecessary. </p>
+        <p>*Standard airbag: The 1986 Porsche 944 was the first car sold in the U.S. to have a passenger airbag as standard equipment. </p>
+    </body>
+</html>
